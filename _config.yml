@@ -1,8 +1,7 @@
 # 网站基本信息
 title: Your Name
-email: your.email@example.com
 description: >-
-  A personal website showcasing my projects and thoughts.
+  大家好，这里是闫思慧的网页
 baseurl: "https://wang2025-999.github.io"  # 项目名称（如 https://username.github.io/project-name）
 url: "https://wang2025-999.github.io"  # 个人网址
 
@@ -14,9 +13,8 @@ plugins:
 
 # 导航菜单
 header_pages:
-  - about.md
-  - projects.md
-  - blog.md
+  - README.md
+
 
 # 其他设置
 markdown: kramdown
